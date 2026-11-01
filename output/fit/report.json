@@ -1,0 +1,651 @@
+[
+  {
+    "file": "C:\\Users\\haide\\Alif3D\\input\\issay-pendant-lamp\\ISSAY E26-E27.stl",
+    "summary": {
+      "extents_mm": [
+        145.0,
+        145.0,
+        143.53
+      ],
+      "volume_cm3": 66.14,
+      "faces": 307392,
+      "watertight": true
+    },
+    "notes": [],
+    "features": [
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 141.78,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 71.76,
+        "to": 73.56,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          72.66
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 139.33,
+        "center_2d": [
+          -161.27,
+          -286.89
+        ],
+        "from": 68.18,
+        "to": 69.97,
+        "length": 1.79,
+        "center_3d": [
+          -161.27,
+          -286.89,
+          69.07
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 139.04,
+        "center_2d": [
+          -161.26,
+          -286.9
+        ],
+        "from": 71.76,
+        "to": 73.56,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.9,
+          72.66
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 138.57,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 109.44,
+        "to": 111.23,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          110.34
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 136.47,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 68.18,
+        "to": 69.97,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          69.07
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 136.06,
+        "center_2d": [
+          -161.27,
+          -286.9
+        ],
+        "from": 109.44,
+        "to": 111.23,
+        "length": 1.79,
+        "center_3d": [
+          -161.27,
+          -286.9,
+          110.34
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 131.39,
+        "center_2d": [
+          -161.25,
+          -286.88
+        ],
+        "from": 122.0,
+        "to": 123.79,
+        "length": 1.79,
+        "center_3d": [
+          -161.25,
+          -286.88,
+          122.9
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 128.83,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 122.0,
+        "to": 123.79,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          122.9
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 128.76,
+        "center_2d": [
+          -161.27,
+          -286.9
+        ],
+        "from": 57.41,
+        "to": 59.2,
+        "length": 1.79,
+        "center_3d": [
+          -161.27,
+          -286.9,
+          58.31
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 125.88,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 57.41,
+        "to": 59.2,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          58.31
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 124.26,
+        "center_2d": [
+          -161.26,
+          -286.88
+        ],
+        "from": 53.82,
+        "to": 55.62,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.88,
+          54.72
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 123.04,
+        "center_2d": [
+          -161.25,
+          -286.89
+        ],
+        "from": 134.56,
+        "to": 136.35,
+        "length": 1.79,
+        "center_3d": [
+          -161.25,
+          -286.89,
+          135.45
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 121.21,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 53.82,
+        "to": 55.62,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          54.72
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 120.43,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 134.56,
+        "to": 136.35,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          135.45
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 119.6,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 50.23,
+        "to": 52.03,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          51.13
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 118.09,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 141.73,
+        "to": 143.53,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          142.63
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 116.52,
+        "center_2d": [
+          -161.25,
+          -286.89
+        ],
+        "from": 50.23,
+        "to": 52.03,
+        "length": 1.79,
+        "center_3d": [
+          -161.25,
+          -286.89,
+          51.13
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 114.84,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 141.73,
+        "to": 143.53,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          142.63
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 114.25,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 46.65,
+        "to": 48.44,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          47.54
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 111.25,
+        "center_2d": [
+          -161.26,
+          -286.9
+        ],
+        "from": 46.65,
+        "to": 48.44,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.9,
+          47.54
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 92.47,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 32.29,
+        "to": 34.09,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          33.19
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 89.57,
+        "center_2d": [
+          -161.27,
+          -286.89
+        ],
+        "from": 32.29,
+        "to": 34.09,
+        "length": 1.79,
+        "center_3d": [
+          -161.27,
+          -286.89,
+          33.19
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 87.35,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 28.71,
+        "to": 30.5,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          29.6
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 84.36,
+        "center_2d": [
+          -161.25,
+          -286.9
+        ],
+        "from": 28.71,
+        "to": 30.5,
+        "length": 1.79,
+        "center_3d": [
+          -161.25,
+          -286.9,
+          29.6
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 82.07,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 25.12,
+        "to": 26.91,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          26.01
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 79.1,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 25.12,
+        "to": 26.91,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          26.01
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 65.32,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 8.97,
+        "to": 10.76,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          9.87
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 62.65,
+        "center_2d": [
+          -161.26,
+          -286.9
+        ],
+        "from": 8.97,
+        "to": 10.76,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.9,
+          9.87
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 62.48,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 5.38,
+        "to": 7.18,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          6.28
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "boss",
+        "d": 60.27,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 0.0,
+        "to": 1.79,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          0.9
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 59.71,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 5.38,
+        "to": 7.18,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          6.28
+        ]
+      },
+      {
+        "axis": "z",
+        "kind": "hole",
+        "d": 40.1,
+        "center_2d": [
+          -161.26,
+          -286.89
+        ],
+        "from": 0.0,
+        "to": 1.79,
+        "length": 1.79,
+        "center_3d": [
+          -161.26,
+          -286.89,
+          0.9
+        ]
+      }
+    ],
+    "blender_stl": "C:\\Users\\haide\\Alif3D\\fit\\issay-pendant-lamp\\blender\\ISSAY E26-E27.stl",
+    "checks": [
+      {
+        "reference": "ac-lamp",
+        "reference_name": "AC lamp: ES E27 lamp holder with M10 nipple and lampshade collar",
+        "reference_status": "provisional",
+        "reference_mesh": "C:\\Users\\haide\\alifs-3d-agent\\references\\ac-lamp\\proxy.stl",
+        "fit": "too tight",
+        "best_interface": {
+          "interface": "shade_hole",
+          "shaft_d": 40.0,
+          "clearance_ok": [
+            0.3,
+            2.0
+          ],
+          "verdict": "too tight",
+          "hole_d": 40.1,
+          "clearance": 0.1,
+          "hole": {
+            "axis": "z",
+            "kind": "hole",
+            "d": 40.1,
+            "center_2d": [
+              -161.26,
+              -286.89
+            ],
+            "from": 0.0,
+            "to": 1.79,
+            "length": 1.79,
+            "center_3d": [
+              -161.26,
+              -286.89,
+              0.9
+            ]
+          },
+          "seat_z": 10.0,
+          "notes": [],
+          "score": 55
+        },
+        "interfaces": [
+          {
+            "interface": "shade_hole",
+            "shaft_d": 40.0,
+            "clearance_ok": [
+              0.3,
+              2.0
+            ],
+            "verdict": "too tight",
+            "hole_d": 40.1,
+            "clearance": 0.1,
+            "hole": {
+              "axis": "z",
+              "kind": "hole",
+              "d": 40.1,
+              "center_2d": [
+                -161.26,
+                -286.89
+              ],
+              "from": 0.0,
+              "to": 1.79,
+              "length": 1.79,
+              "center_3d": [
+                -161.26,
+                -286.89,
+                0.9
+              ]
+            },
+            "seat_z": 10.0,
+            "notes": [],
+            "score": 55
+          },
+          {
+            "interface": "m10_mount",
+            "shaft_d": 10.0,
+            "clearance_ok": [
+              0.2,
+              1.2
+            ],
+            "verdict": "no matching hole",
+            "score": 0
+          }
+        ],
+        "similarity": {
+          "score": 69,
+          "shape": 88,
+          "size": 41
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "name": "issay-pendant-lamp",
+  "title": "ISSAY pendant shade (E26/E27)",
+  "date": "2026-11-01",
+  "qty": 1,
+  "printer": "A1",
+  "filament": "PLA Matte",
+  "color": "Bone white",
+  "hardware": {},
+  "source": "https://makerworld.com/en/models/466600",
+  "license": "MakerWorld Standard Digital File License (personal use)",
+  "credit": "ISSAY, Rumbles series, by mmera (Studio MeraldiRubini)",
+  "density": 1.24,
+  "models": [
+    "E:\\My Project\\Personal\\3D agent Output\\issay-pendant-lamp\\ISSAY E26-E27.stl"
+  ],
+  "slice": {
+    "method": "Bambu Studio CLI",
+    "grams": 84.0,
+    "seconds": 23816,
+    "plates": 1,
+    "machine": "Bambu Lab A1 0.4 nozzle",
+    "process": "0.20mm Standard @BBL A1",
+    "filament_profile": "Bambu PLA Matte @BBL A1",
+    "layer_height": 0.2,
+    "walls": 2,
+    "infill_pct": 15.0,
+    "supports": false
+  },
+  "pricing": {
+    "_note": "Production cost assumptions in BDT. Edit to match your shop; production.py reads this every run.",
+    "filament_bdt_per_kg": {
+      "PLA Basic": 2200,
+      "PLA Matte": 2500,
+      "PLA+": 2300,
+      "PETG": 2400,
+      "ABS": 2400,
+      "TPU": 3500
+    },
+    "brand_rate_bdt_per_g": {
+      "PLA Basic": 6,
+      "PLA Matte": 6,
+      "PLA+": 7,
+      "PETG": 7,
+      "ABS": 8
+    },
+    "density_g_cm3": {
+      "PLA Basic": 1.24,
+      "PLA Matte": 1.24,
+      "PLA+": 1.24,
+      "PETG": 1.27,
+      "ABS": 1.04,
+      "TPU": 1.21
+    },
+    "printer_watts": {
+      "A1": 95,
+      "A1 mini": 80,
+      "P1S": 110,
+      "P1P": 105,
+      "X1C": 120
+    },
+    "electricity_bdt_per_kwh": 12,
+    "machine_bdt_per_hour": 15,
+    "labour_bdt": 60,
+    "packaging_bdt": 40,
+    "failure_allowance": 0.1,
+    "margin": 0.4,
+    "round_price_to": 10
+  },
+  "cost": {
+    "lines": {
+      "Filament": 210.0,
+      "Electricity": 7.54,
+      "Machine time": 99.23,
+      "Labour and finishing": 60,
+      "Packaging": 40,
+      "Failed-print allowance": 31.68
+    },
+    "subtotal": 416.78,
+    "unit_cost": 448.45,
+    "brand_rate_price": 510,
+    "cost_plus_price": 630,
+    "suggested_price": 630,
+    "margin": 0.4,
+    "rate_bdt_per_g": 6
+  }
+}
